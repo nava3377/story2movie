@@ -1,0 +1,9 @@
+torch
+transformers
+diffusers
+accelerate
+bitsandbytes
+speechbrain
+scipy
+numpy
+huggingface_hub
