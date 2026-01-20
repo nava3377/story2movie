@@ -24,5 +24,5 @@ It simulates how AI can assist writers, filmmakers, or creative professionals in
 
 ---
 
-## 📁 Project Structure
+
 
